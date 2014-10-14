@@ -18,11 +18,11 @@ Actionbar visible?
 Tutorial page
 
 MainFragment:
-	Fix Listview
-		add date
-		add title
-		add response
-		add image
+	Fix Listview (done)
+		add date (done)
+		add title(done)
+		add response(done)
+		add image(done)
 	Buttons on bottom
 		personal post (add assets)
 		reflect (add asssets)
@@ -30,24 +30,24 @@ MainFragment:
 	user name
 	user last login
 
-PersonalFragment:NO LISTVIEW
+PersonalFragment:NO LISTVIEW(done)
 	fix text
 	edit text
 	buttons
 		back (add asset)
 		add image (add asset)
 		post (add asset)
-	ParseImageView
+	ParseImageView(done)
 	
 ReflectionResponseFragment:
 	fix adapter
 		query responses: user, title, personal = false
 	style text
 	edit text response
-	fix listview: TURN THE current listview of main fragment into this one
-		make own listview without images
-		date
-		response
+	fix listview: TURN THE current listview of main fragment into this one(done)
+		make own listview without images(done)
+		date(done)
+		response(done)
 	Buttons:
 		back
 		submit
